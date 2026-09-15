@@ -2,20 +2,23 @@
 
 ## Background
 
-[Describe the broader context. What domain or industry does this problem belong to? What situation creates the problem?]
+Power utilities rely heavily on calendar-based maintenance for transformers and substations. Although modern equipment already generates sensor data such as temperature, vibration, and oil quality, this information is often not used together with weather forecasts to predict failures before they happen.
 
 ## The Problem
 
-[State the problem clearly and specifically. Avoid vague statements like "things are slow" — instead say "Operations teams spend an average of 45 minutes per incident diagnosing pipeline failures because logs are scattered across 6 different tools."]
+Unexpected transformer and substation failures lead to costly power outages, delayed repairs, and disruption for thousands of people. Maintenance teams often identify issues only after equipment has already failed.
 
 ## Who is Affected
 
-[Describe the specific user or persona experiencing this problem. Be concrete — not "developers" but "backend engineers managing CI/CD pipelines in enterprises with 50+ microservices."]
+- Power utility companies
+- Grid maintenance engineers
+- Field technicians
+- Homes, hospitals, and businesses affected by outages
 
 ## Why It Matters
 
-[What is the cost of this problem? Lost time? Revenue? Safety risk? Frustration? Quantify if possible.]
+A single equipment failure can cause major blackouts, increase maintenance costs, and reduce public safety. Predicting failures early allows utilities to repair critical assets before outages occur.
 
 ## Why Existing Solutions Fall Short
 
-[Briefly explain what people currently do and why it doesn't fully solve the problem. This sets up why your solution is needed.]
+Most existing systems depend on fixed maintenance schedules instead of real-time risk analysis. They rarely combine sensor readings with weather conditions, making it difficult to prioritize high-risk equipment.
