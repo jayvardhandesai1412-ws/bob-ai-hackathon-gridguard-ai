@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [AI-powered Power Outage Prediction & Grid Equipment Failure Advisor.]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | [GridGuard AI] |
+| **Track** | [AI] |
+| **Team Lead** | [Jayvardhan Desai] — [26CL024@charusat.edu.in] |
+| **Members** | [Parth Mehta], [Jay Joshi], [Vraj Talaviya] |
 
 ---
 
@@ -19,7 +19,8 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+[Utilities often use calendar-based maintenance, while sensor and weather data can predict failures earlier.
+]
 
 ---
 
@@ -27,17 +28,17 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[GridGuard AI combines sensor data and weather forecasts to predict transformer failure risk and prioritize maintenance.]
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [Risk Score]
+- **Feature 2:** [Weather Analysis]
+- **Feature 3:** [Maintenance Priority]
+- **Feature 4:** [AI-based recommendations]
+
 
 ---
 
@@ -45,11 +46,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [Python, JavaScript] |
+| **Frameworks** | [Flask, React] |
+| **IBM Technologies** | [IBM Bob] |
+| **Databases** | [SQLite] |
+| **Other** | [GitHub, Chart.js] |
 
 ---
 
